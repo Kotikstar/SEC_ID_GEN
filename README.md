@@ -1,7 +1,5 @@
 # SEC_ID_GEN
 
-# PHP Random String Generator
-
 This is a simple PHP script that generates a random string consisting of uppercase letters and a random number.
 
 ## Usage
